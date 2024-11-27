@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_LoopsWitStars", "05_LoopsWitStars\05_LoopsWitStars.csproj", "{6423441A-7BD2-41AA-827C-7795B53088CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Arrays", "06_Arrays\06_Arrays.csproj", "{D476623D-F48E-49A4-8F2F-6AECDF74F0E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6423441A-7BD2-41AA-827C-7795B53088CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6423441A-7BD2-41AA-827C-7795B53088CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6423441A-7BD2-41AA-827C-7795B53088CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6423441A-7BD2-41AA-827C-7795B53088CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D476623D-F48E-49A4-8F2F-6AECDF74F0E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D476623D-F48E-49A4-8F2F-6AECDF74F0E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D476623D-F48E-49A4-8F2F-6AECDF74F0E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D476623D-F48E-49A4-8F2F-6AECDF74F0E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF3CB6A2-D291-408D-A2B9-BEC82A17AB3D}
+	EndGlobalSection
+EndGlobal
